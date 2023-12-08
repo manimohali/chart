@@ -1,12 +1,3 @@
-<?php
-
-// $d = 10;
-
-// phpinfo();
-
-?>
-
-
 
 <!DOCTYPE html>
 <html lang="en">
